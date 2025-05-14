@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm donghyeonKim</h1>
 <h3 align="center">I am a developer who values communication and takes responsibility</h3>
 
-- 🌱 I’m currently learning **Fullstack Develeopments**
+- 🌱 I’m currently learning **Full-stack Development**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/10FoCZFXLEb3IeR7E_lUw5IbTljmkmIUh/view?pli=1](https://drive.google.com/file/d/10FoCZFXLEb3IeR7E_lUw5IbTljmkmIUh/view?pli=1)
 
