@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/10FoCZFXLEb3IeR7E_lUw5IbTljmkmIUh/view?pli=1](https://drive.google.com/file/d/10FoCZFXLEb3IeR7E_lUw5IbTljmkmIUh/view?pli=1)
 
-- 📫 How to reach me **'dhok324@naver.com'**
+- 📫 How to reach me **`dhok324@naver.com`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
