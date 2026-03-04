@@ -25,4 +25,4 @@
 ---
 
 ## 🔗 Connect
-- GitHub: [github.com/kimdonghyeon](https://github.com/kimdonghyeon)
+- GitHub: [github.com/kimdonghyeon](https://github.com/kimdonghyeon6306)
